@@ -1,8 +1,17 @@
-# React + Vite
+# This is a basic react-redux application where users can search for movies with autocomplete functionality
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### This is a ReactJS based web application
 
-Currently, two official plugins are available:
+Features Of the application:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Minimilastic and Simple UI
+- Search for new movie with autocomplete functionality
+- Enjoy experience with both dark mode and light mode options
+- Access movie information along with OMDB ratings
+
+Snapshots of the project 👇
+
+![Alt Text](snaps/1.png?raw=true "Title")
+![Alt Text](snaps/2.png?raw=true "Title")
+![Alt Text](snaps/3.png?raw=true "Title")
+![Alt Text](snaps/4.png?raw=true "Title")
